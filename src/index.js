@@ -5,7 +5,7 @@ import App from './App';
 import { createRoot } from 'react-dom/client';
 import "normalize.css"
 
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, HashRouter } from 'react-router-dom';
  
 
 
@@ -15,9 +15,9 @@ const root = createRoot(container);
 
 
 root.render(
-  <BrowserRouter basename='/MyPortfolio'>
+  <HashRouter basename='/MyPortfolio'>
     <App />
-  </BrowserRouter>
+  </HashRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
