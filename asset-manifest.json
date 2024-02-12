@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mohammad-Jamal/MyPortfolio/static/css/main.58462fbc.css",
-    "main.js": "/Mohammad-Jamal/MyPortfolio/static/js/main.76b95e5b.js",
+    "main.js": "/Mohammad-Jamal/MyPortfolio/static/js/main.c496f67f.js",
     "static/media/Fb-Website.png": "/Mohammad-Jamal/MyPortfolio/static/media/Fb-Website.e8b86595d9016b43852d.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Mohammad-Jamal/MyPortfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/Youtube-Website.jpg": "/Mohammad-Jamal/MyPortfolio/static/media/Youtube-Website.1a0a6fe11a9e71d1776a.jpg",
@@ -12,10 +12,10 @@
     "static/media/profile-img.png": "/Mohammad-Jamal/MyPortfolio/static/media/profile-img.5179e446ac1a570ce69b.png",
     "index.html": "/Mohammad-Jamal/MyPortfolio/index.html",
     "main.58462fbc.css.map": "/Mohammad-Jamal/MyPortfolio/static/css/main.58462fbc.css.map",
-    "main.76b95e5b.js.map": "/Mohammad-Jamal/MyPortfolio/static/js/main.76b95e5b.js.map"
+    "main.c496f67f.js.map": "/Mohammad-Jamal/MyPortfolio/static/js/main.c496f67f.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.76b95e5b.js"
+    "static/js/main.c496f67f.js"
   ]
 }
