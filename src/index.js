@@ -15,7 +15,7 @@ const root = createRoot(container);
 
 
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename='/MyPortfolio'>
     <App />
   </BrowserRouter>
 );
