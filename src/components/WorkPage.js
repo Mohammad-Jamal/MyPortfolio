@@ -11,7 +11,7 @@ import Card from "../subComponents/Card";
 import { YinYang } from "./AllSvgs";
 import BigTitle from "../subComponents/BigTitle";
 
-import { motion, useScroll } from "framer-motion";
+import { motion} from "framer-motion";
 
 
 

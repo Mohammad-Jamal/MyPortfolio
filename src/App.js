@@ -3,7 +3,7 @@ import GlobalStyle from "./globalstyles"
 import { ThemeProvider } from "styled-components"
 import { lightTheme } from "./components/Themes";
 import { useLocation } from "react-router-dom";
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom"; // Correct import statements
+import { Route, BrowserRouter as Routes } from "react-router-dom"; // Correct import statements
 //components
 import Main from "./components/Main"
 import AboutPage from "./components/AboutPage"
