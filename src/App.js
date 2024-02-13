@@ -23,7 +23,7 @@ function App() {
       {/*       For framer-motion animation on Page Change!  */}
       <AnimatePresence mode='wait'>
         <Routes key={location.pathname} location={location}>
-        <Route path="/MyPortfolio" element={<Main />} />
+        <Route path="/" element={<Main />} />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/blog" element={<BlogPage />} />
         <Route path="/work" element={<WorkPage />} />
